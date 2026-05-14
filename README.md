@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Building+Backend+Services+%26+AI+Agents)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-CHEN666333--SVG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHEN666333-SVG)
+[![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
 [![NJUST](https://img.shields.io/badge/NJUST-Nanjing-9B2335?style=for-the-badge&logo=academia&logoColor=white)](https://www.njust.edu.cn)
 
 ---
@@ -63,11 +63,11 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CHEN666333-SVG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHEN666333-SVG&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Stats](https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=CHEN666333-SVG&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=zavoryn&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer)
