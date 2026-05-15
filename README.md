@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Building+Backend+Services+%26+AI+Agents)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
+[![Juejin](https://img.shields.io/badge/掘金-Ming%20Chen-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
+[![CSDN](https://img.shields.io/badge/CSDN-Ming%20Chen-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
 [![NJUST](https://img.shields.io/badge/NJUST-Nanjing-9B2335?style=for-the-badge&logo=academia&logoColor=white)](https://www.njust.edu.cn)
 
 ---
@@ -14,6 +16,19 @@
 - 🚀 Currently learning **LangChain**, **FastAPI**, and **MCP Protocol**
 - 🧠 Interested in combining **Java backend engineering** with **AI-native development workflows**
 - 📍 Based in **Nanjing, China**
+
+---
+
+## Blog & Writing
+
+📝 I write about backend engineering and AI Agent systems on multiple platforms.
+
+📄 **Latest:** [从操作系统理解 AI Agent：进程、系统调用与上下文窗口](https://juejin.cn/user/1329749731578971)
+
+**Platforms:**
+
+- [掘金主页](https://juejin.cn/user/1329749731578971) — AI Agent、系统设计、后端工程
+- [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — Java 后端、Spring Boot 实战
 
 ---
 
