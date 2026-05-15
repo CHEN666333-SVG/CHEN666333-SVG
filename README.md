@@ -19,10 +19,7 @@
 - ⚙️ Enterprise Java engineer — distributed systems · event-driven architecture · high-concurrency
 - 🤖 AI agent builder — LLM evaluation · multi-modal analysis · automated AI workflows
 
-**Currently**
-
-- Building: Claude Code ecosystem integrations & IDE tooling
-- Exploring: MCP Protocol · LangChain · Spring AI
+> Building the infrastructure layer between enterprise Java systems and AI-native workflows.
 
 ---
 
