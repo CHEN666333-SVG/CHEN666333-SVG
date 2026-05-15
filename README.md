@@ -35,9 +35,9 @@
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&hide=stars,issues" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=zavoryn&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currLabel=58A6FF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=5" width="100%" />
 
 </td>
 </tr>
@@ -75,6 +75,20 @@
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+[![MiniCode](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=MiniCode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/MiniCode)
+[![idea-claude-code-gui](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=idea-claude-code-gui&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/idea-claude-code-gui)
+
+[![yixiang](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=yixiang&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/yixiang)
+[![ecom-analytics](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=ecom-analytics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/ecom-analytics)
+
+</div>
+
+---
+
 ## Blog & Writing
 
 📝 Writing about backend engineering and AI Agent systems.
@@ -86,18 +100,7 @@
 
 ---
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-</picture>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zavoryn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zavoryn&theme=onestar&no-bg=true&no-frame=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
