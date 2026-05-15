@@ -34,52 +34,36 @@
 
 ## Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-red?style=flat-square)
-
-**Database & Middleware**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Nacos](https://img.shields.io/badge/Nacos-00A1E9?style=flat-square)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**AI & Agent**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## What I'm Working On
-
-- 🔧 Building backend services with **Spring Boot** microservice architecture
-- 🤖 Exploring **AI Agent** development with LangChain and MCP Protocol
-- 🌐 Contributing to open source projects in the AI/Agent ecosystem
-- 💼 Looking for **Backend Developer** or **AI Agent Developer** opportunities
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,redis,kafka,docker,git,linux,githubactions,idea,pycharm,vscode&theme=dark)
 
 ---
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=donut-vertical&theme=default&hide_border=true&langs_count=6" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
+</picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zavoryn&theme=tokyonight&hide_border=true&background=161B22&ring=58A6FF&fire=FF6B35&currLabel=58A6FF)](https://git.io/streak-stats)
+
+---
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zavoryn&theme=onestar&no-bg=true&no-frame=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/zavoryn/zavoryn/output/github-snake.svg)
 
 ---
 
