@@ -14,34 +14,15 @@
 
 ---
 
-<table>
-<tr>
-<td width="52%" valign="top">
+**About**
 
-<h3>About</h3>
+- ⚙️ Enterprise Java engineer — distributed systems · event-driven architecture · high-concurrency
+- 🤖 AI agent builder — LLM evaluation · multi-modal analysis · automated AI workflows
 
-<ul>
-  <li>⚙️ Enterprise Java engineer — distributed systems · event-driven architecture · high-concurrency</li>
-  <li>🤖 AI agent builder — LLM evaluation · multi-modal analysis · automated AI workflows</li>
-</ul>
+**Currently**
 
-<h3>Currently</h3>
-
-<ul>
-  <li>Building: Claude Code ecosystem integrations &amp; IDE tooling</li>
-  <li>Exploring: MCP Protocol · LangChain · Spring AI</li>
-</ul>
-
-</td>
-<td width="48%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zavoryn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true&hide=stars,issues" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zavoryn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=5" width="100%" />
-
-</td>
-</tr>
-</table>
+- Building: Claude Code ecosystem integrations & IDE tooling
+- Exploring: MCP Protocol · LangChain · Spring AI
 
 ---
 
@@ -72,20 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![MiniCode](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=MiniCode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/MiniCode)
-[![idea-claude-code-gui](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=idea-claude-code-gui&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/idea-claude-code-gui)
-
-[![yixiang](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=yixiang&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/yixiang)
-[![ecom-analytics](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=ecom-analytics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/zavoryn/ecom-analytics)
-
-</div>
 
 ---
 
