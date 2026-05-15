@@ -23,7 +23,7 @@
 
 <ul>
   <li>🎓 M.Sc. candidate, </strong> @ NJUST</li>
-  <li>⚙️ Enterprise Java architect — Yudao framework · monolith→microservices · high-concurrency systems</li>
+  <li>⚙️ Enterprise Java architect · monolith→microservices · high-concurrency systems</li>
   <li>🤖 AI agent builder — LLM evaluation · multi-modal analysis · automated AI workflows</li>
 </ul>
 
