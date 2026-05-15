@@ -34,7 +34,7 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,pytorch,tensorflow,sklearn,mysql,redis,kafka,elasticsearch,docker,git,linux,githubactions&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,typescript,fastapi,pytorch,tensorflow,mysql,redis,kafka,elasticsearch,docker,git,linux&theme=dark)
 
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/langchain-ai)
 [![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/spring-projects/spring-ai)
