@@ -1,21 +1,53 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ming%20Chen&fontSize=48&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Agent%20Explorer&descSize=18&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2333,100:1f6feb&height=230&section=header&text=zavoryn&fontSize=52&fontColor=e6edf3&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20AI%20Agent%20Architect&descSize=20&descAlignY=57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Building+Backend+Services+%26+AI+Agents)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+TypeScript;Distributed+Systems+%7C+CLI+Tools+%7C+IDE+Plugins;LangChain+%7C+MCP+Protocol+%7C+Claude+Code+Ecosystem;Building+AI-Native+Full-Stack+Applications)](https://git.io/typing-svg)
+
+</div>
+
+```typescript
+const zavoryn: Developer = {
+  role:    ["Full-Stack Developer", "AI Agent Architect"],
+  stack:   ["Java / Spring Boot", "Python / FastAPI", "TypeScript"],
+  builds:  ["Distributed backends", "Agent systems", "IDE plugins", "CLI tools"],
+  current: "Claude Code ecosystem · MCP Protocol · LangChain",
+  based:   "Nanjing, China",
+};
+```
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
-[![Juejin](https://img.shields.io/badge/掘金-Ming%20Chen-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
-[![CSDN](https://img.shields.io/badge/CSDN-Ming%20Chen-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
+[![Juejin](https://img.shields.io/badge/掘金-zavoryn-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
+[![CSDN](https://img.shields.io/badge/CSDN-zavoryn-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
 [![NJUST](https://img.shields.io/badge/NJUST-Nanjing-9B2335?style=for-the-badge&logo=academia&logoColor=white)](https://www.njust.edu.cn)
+
+</div>
 
 ---
 
 ## About Me
 
-- 🎓 Student at **Nanjing University of Science and Technology**
-- 💻 Focused on **Backend Development**, **Distributed Systems**, and **AI Agent Applications**
-- 🚀 Currently learning **LangChain**, **FastAPI**, and **MCP Protocol**
-- 🧠 Interested in combining **Java backend engineering** with **AI-native development workflows**
-- 📍 Based in **Nanjing, China**
+- 💡 Full-stack developer building **distributed backend systems**, **AI agent tooling**, and **developer experience** infrastructure
+- 🔧 Shipped: **MiniCode** (terminal coding assistant) · **IDEA Claude Code Plugin** · ecom & social backend platforms
+- 🤖 Deep-diving: **LangChain** · **MCP Protocol** · **Claude Code ecosystem**
+- 🎓 **Nanjing University of Science and Technology**
+- 📍 Nanjing, China
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![MiniCode](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=MiniCode&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zavoryn/MiniCode)
+[![idea-claude-code-gui](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=idea-claude-code-gui&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zavoryn/idea-claude-code-gui)
+
+[![huashu-design](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=huashu-design&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zavoryn/huashu-design)
+[![yixiang](https://github-readme-stats.vercel.app/api/pin/?username=zavoryn&repo=yixiang&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zavoryn/yixiang)
+
+</div>
 
 ---
 
@@ -65,9 +97,9 @@
 
 ---
 
-## Contribution Snake
+## Activity
 
-![Snake animation](https://raw.githubusercontent.com/zavoryn/zavoryn/output/github-snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zavoryn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f2637)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
