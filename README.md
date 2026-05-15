@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
 [![Juejin](https://img.shields.io/badge/掘金-zavoryn-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
 [![CSDN](https://img.shields.io/badge/CSDN-zavoryn-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
-[![NJUST](https://img.shields.io/badge/NJUST-Nanjing-9B2335?style=for-the-badge&logo=academia&logoColor=white)](https://www.njust.edu.cn)
 
 </div>
 
@@ -22,8 +21,7 @@
 <h3>About</h3>
 
 <ul>
-  <li>🎓 M.Sc. candidate, </strong> @ NJUST</li>
-  <li>⚙️ Enterprise Java architect · monolith→microservices · high-concurrency systems</li>
+  <li>⚙️ Enterprise Java engineer — distributed systems · event-driven architecture · high-concurrency</li>
   <li>🤖 AI agent builder — LLM evaluation · multi-modal analysis · automated AI workflows</li>
 </ul>
 
@@ -106,3 +104,4 @@
 ![Views](https://komarev.com/ghpvc/?username=zavoryn&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=80&section=footer)
+
