@@ -34,7 +34,7 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,redis,kafka,docker,git,linux,githubactions,idea,pycharm,vscode&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,redis,kafka,elasticsearch,docker,git,linux,githubactions,langchain,terraform&theme=dark)
 
 ---
 
